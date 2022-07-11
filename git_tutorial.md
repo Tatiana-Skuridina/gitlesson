@@ -32,3 +32,5 @@ version of the program.
 * *git merge name_branch* - merge branch name_branch to current
 
 3. Conflicts between branches
+
+There are conflict-free merges and conflict merges that require manual solutions
