@@ -24,3 +24,5 @@ version of the program.
 2. Merge branches
 
 3. Conflicts between branches
+
+4. Deletes branch
