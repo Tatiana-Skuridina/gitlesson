@@ -24,3 +24,7 @@ version of the program.
 2. Merge branches
 
 3. Conflicts between branches
+
+4. Deleted branch
+
+* *git branch -d name_branch* - deleted branch name_branch
