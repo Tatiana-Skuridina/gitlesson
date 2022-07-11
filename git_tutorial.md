@@ -29,9 +29,6 @@ version of the program.
 
 2. Merge branches
 
+* *git merge name_branch* - merge branch name_branch to current
+
 3. Conflicts between branches
-
-* conflict-free merges 
-* conflict merges that require manual solutions
-
-4. Deletes branch
