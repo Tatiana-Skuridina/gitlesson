@@ -14,3 +14,9 @@ version of the program.
 * *git log* - to view the change log.
 
 * *git checkout* - to switch between versions.
+
+* *git branch* - view all the branch
+
+* *git branch name_branch* - create new branch named name_branch
+
+* *git checkout name_branch* - change branch to name_branch
