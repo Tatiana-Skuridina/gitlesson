@@ -23,4 +23,6 @@ version of the program.
 
 2. Merge branches
 
+* *git merge name_branch* - merge branch name_branch to current
+
 3. Conflicts between branches
