@@ -21,6 +21,12 @@ version of the program.
 
 1. Added branches and change branches
 
+* *git branch* - view all the branch
+
+* *git branch name_branch* - create new branch named name_branch
+
+* *git checkout name_branch* - change branch to name_branch
+
 2. Merge branches
 
 3. Conflicts between branches
