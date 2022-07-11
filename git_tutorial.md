@@ -25,4 +25,7 @@ version of the program.
 
 3. Conflicts between branches
 
+* conflict-free merges 
+* conflict merges that require manual solutions
+
 4. Deletes branch
