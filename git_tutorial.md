@@ -38,3 +38,5 @@ There are conflict-free merges and conflict merges that require manual solutions
 4. Deleted branch
 
 * *git branch -d name_branch* - deleted branch name_branch
+
+test
