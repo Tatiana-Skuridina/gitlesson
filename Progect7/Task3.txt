@@ -1,0 +1,19 @@
+
+-- create
+CREATE TABLE GROUP1 (
+  Id INTEGER NOT NULL AUTO_INCREMENT,
+  name TEXT NOT NULL,
+  age INTEGER NOT NULL,
+  address TEXT NOT NULL,
+  PRIMARY KEY (Id)
+);
+
+-- insert
+INSERT INTO GROUP1 (name, age, address) VALUES ('Ирина', 39, 'Москва');
+INSERT INTO GROUP1 (name, age, address) VALUES ('Юлия', 25, 'Новгород');
+INSERT INTO GROUP1 (name, age, address) VALUES ('Ксения', 10, 'Воронеж');
+INSERT INTO GROUP1 (name, age, address) VALUES ('Марина', 18, 'Москва');
+INSERT INTO GROUP1 (name, age, address) VALUES ('Степан', 61, 'Братислава');
+
+-- fetch 
+SELECT * FROM GROUP1 WHERE age > '18';
