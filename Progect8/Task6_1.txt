@@ -1,0 +1,7 @@
+# 6-1. Напишите программу, которая принимает на вход вещественное число и показывает сумму его цифр.
+from functools import reduce
+n = list(input('Введите вещественное число:'))
+number = 0
+n = list(filter(lambda x: x not in (',', '.'), n))
+number = reduce(lambda x, y: int(x) + int(y), n)
+print(f'Сумма чисел равна {number}')
