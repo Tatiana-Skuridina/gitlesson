@@ -1,0 +1,4 @@
+# 25. напечатать строку в одну линию - C:\WINDOWS\System32\drivers\etc\nst
+
+data = open('file_1.txt', 'r')
+print(*data)
